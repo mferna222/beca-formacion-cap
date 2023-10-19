@@ -1,0 +1,2 @@
+open -a editor txt nombre archivo --> comando para abrir archivos con un editor de txt local
+git diff --staged -> status de los archivos
